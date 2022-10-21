@@ -5,6 +5,5 @@
     ],
     "routes": [
         { "src": "/(.*)", "dest": "test.py" }
-    ],
-    "trailingSlash": true
+    ]
 }
