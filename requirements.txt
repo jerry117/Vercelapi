@@ -1,6 +1,6 @@
-flask==1.1.2
-Werkzeug==1.0.0
-uvicorn
+Flask==1.1.2
 requests
 pydantic
 cowpy==1.0.3
+uvicorn==0.18.3
+Werkzeug==2.2.2
